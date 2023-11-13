@@ -1,6 +1,6 @@
 # Java Internship README 🚀
 
-**Auther: Aryan Pandey** <br>
+**Author: Aryan Pandey** <br>
 Welcome to my Java Internship! 🎓
 
 ## Level 1
